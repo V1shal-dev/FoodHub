@@ -1,0 +1,8 @@
+{
+  "name": "FoodHub - Food Delivery App",
+  "description": "A modern, feature-rich food delivery application built with React and Tailwind CSS. It allows users to browse restaurants, order food, track deliveries, and engage with gamified loyalty features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
