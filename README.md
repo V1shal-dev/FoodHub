@@ -11,7 +11,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38BDF8?logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
 [![Capacitor](https://img.shields.io/badge/Capacitor-8-119EFF?logo=capacitor&logoColor=white)](https://capacitorjs.com)
-[![License](https://img.shields.io/badge/License-MIT-22c55e)](#-license)
 
 </div>
 
@@ -28,9 +27,7 @@ It's designed to feel like a real product — not a demo — with a complete use
 ## 🚀 Live Demo
 
 > _Add your deployed link here once published (e.g. Vercel / Netlify / GitHub Pages):_
-> 🔗 **Live:** https://your-deployment.example.com
->
-> 📸 **Screenshots:** see [`/docs/screenshots`](#-screenshots) below.
+> 🔗 **Live:** ➜ http://10.220.228.141:3000/
 
 ---
 
