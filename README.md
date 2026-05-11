@@ -339,15 +339,9 @@ Please follow the existing TypeScript + Tailwind style and keep components small
 
 ---
 
-## 📄 License
-
-Released under the [MIT License](./LICENSE) — free to use, modify and distribute.
-
----
-
 ## 🙋 Author
 
-Built with care by **[Your Name](https://github.com/<your-username>)**.
+Built with care by **[Vishal Patil](https://github.com/V1shal-dev)**.
 
 If FoodHub helps you or inspires you, please ⭐ the repo — it really helps!
 
